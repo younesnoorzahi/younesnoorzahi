@@ -1,5 +1,5 @@
 # 💫 About Me:
-My Name is Younes It's Junior Frontend and Developer
+My Team is Rexo It's Junior Frontend and Developer and webdesigner and applicationweb
 
 
 ## 🌐 Socials:
