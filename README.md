@@ -1,1 +1,1 @@
-<img src="img.png" alt="GreatFrontEnd"></a>
+<img src="cover(1).png" alt="GreatFrontEnd"></a>
